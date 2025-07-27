@@ -1,0 +1,13 @@
+constraint
+	primary key	-> not null,unique		id,rollno
+	not null					name, phone, email
+	check						check(age>=18)
+	unique						email, phone
+	foreign key		to link two or more tables
+------------------------------------------------------------------------------------------
+create table emp(id int primary key auto_increment,name varchar(50) not null,salary int check(salary>=0),email varchar(50) unique);
+
+insert into emp(name,salary,email) values('ashok',50000,'ashok@gmail.com');
+
+insert into emp(name,salary,email) values('suresh',60000,'suresh@gmail.com');
+
