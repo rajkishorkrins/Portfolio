@@ -12,7 +12,7 @@ function Projects() {
       <h1 className='sectionTitle'>Projects</h1>
       <div className={styles.projectsContainer}>
 
-        <a href="https://github.com/rajkishorkrins/villa-website" target='_blank' className={styles.card}>
+        <a href="https://cafe-website0.netlify.app/" target='_blank' className={styles.card}>
           <img className="hover" src={cafe} alt="Cafe Project" />
           <h3>Cafe</h3>
           <p>A modern cafe website showcasing menu, services, and booking features.</p>
@@ -24,25 +24,25 @@ function Projects() {
           <p>A real estate villa website highlighting property details and booking.</p>
         </a>
 
-        <a href="https://github.com/rajkishorkrins/villa-website" target='_blank' className={styles.card}>
+        <a href="https://github.com/rajkishorkrins/The-Ios-center" target='_blank' className={styles.card}>
           <img className="hover" src={Ios} alt="iOS Center Project" />
           <h3>iOS Center</h3>
           <p>A professional website for iOS device repair and services.</p>
         </a>
 
-        <a href="https://github.com/rajkishorkrins/villa-website" target='_blank' className={styles.card}>
+        <a href="https://github.com/rajkishorkrins/calculator-App" target='_blank' className={styles.card}>
           <img className="hover" src={calcultor} alt="Calculator Project" />
           <h3>Calculator</h3>
           <p>A simple, responsive calculator web app built with JavaScript.</p>
         </a>
 
-        <a href="https://github.com/rajkishorkrins/villa-website" target='_blank' className={styles.card}>
+        <a href="https://github.com/rajkishorkrins/Weather-App" target='_blank' className={styles.card}>
           <img className="hover" src={Todo} alt="To-Do Project" />
           <h3>To-Do App</h3>
           <p>A task management app for creating and tracking daily tasks.</p>
         </a>
 
-        <a href="https://github.com/rajkishorkrins/villa-website" target='_blank' className={styles.card}>
+        <a href="https://github.com/rajkishorkrins/Weather-App" target='_blank' className={styles.card}>
           <img className="hover" src={Weather} alt="Weather App" />
           <h3>Weather App</h3>
           <p>A weather forecast web app with real-time API integration.</p>
