@@ -39,10 +39,10 @@ function Hero() {
         <h2 className={styles.role}>Frontend Developer</h2>
 
         <div className={styles.socialIcons}>
-          <a href="https://www.linkedin.com/in/your-profile" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.linkedin.com/in/raj-kishor-9131081a1/" target="_blank" rel="noopener noreferrer">
             <img src={linkedinIcon} alt="LinkedIn" />
           </a>
-          <a href="https://github.com/your-profile" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/rajkishorkrins" target="_blank" rel="noopener noreferrer">
             <img src={githubIcon} alt="GitHub" />
           </a>
         </div>
