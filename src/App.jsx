@@ -1,4 +1,5 @@
 import React from 'react';
+import Navigation from './Navigation'; // Import the navigation component
 import Hero from './Section/Hero/Hero';
 import Projects from './Section/Projects/Projects';
 import Skills from './Section/Skills/Skills';
@@ -9,6 +10,7 @@ import './App.css'
 function App() {
   return (
     <>
+      <Navigation />
       <Hero />
       <Projects />
       <Skills />
