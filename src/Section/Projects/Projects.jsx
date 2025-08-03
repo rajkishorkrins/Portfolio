@@ -5,6 +5,7 @@ import Ios from '../../assets/the-ios-center.avif';
 import calcultor from '../../assets/calculator.avif';
 import Todo from '../../assets/to-do-lsit.avif';
 import Weather from '../../assets/weather.avif';
+import Academia from '../../assets/academia.jpg';
 
 function Projects() {
   return (
@@ -16,6 +17,12 @@ function Projects() {
           <img className="hover" src={cafe} alt="Cafe Project" />
           <h3>Cafe</h3>
           <p>A modern cafe website showcasing menu, services, and booking features.</p>
+        </a>
+
+        <a href="https://willowy-otter-4e2401.netlify.app/" target='_blank' className={styles.card}>
+          <img className="hover" src={Academia} alt="Cafe Project" />
+          <h3>Academia</h3>
+          <p>Onlne learing Website</p>
         </a>
 
         <a href="https://github.com/rajkishorkrins/villa-website" target='_blank' className={styles.card}>
@@ -47,6 +54,8 @@ function Projects() {
           <h3>Weather App</h3>
           <p>A weather forecast web app with real-time API integration.</p>
         </a>
+
+        
 
       </div>
     </section>
