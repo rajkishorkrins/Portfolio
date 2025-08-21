@@ -22,7 +22,7 @@ function Projects() {
         <a href="https://willowy-otter-4e2401.netlify.app/" target='_blank' className={styles.card}>
           <img className="hover" src={Academia} alt="Cafe Project" />
           <h3>Academia</h3>
-          <p>Onlne learing Website</p>
+          <p>Online learning Website</p>
         </a>
 
         <a href="https://github.com/rajkishorkrins/villa-website" target='_blank' className={styles.card}>

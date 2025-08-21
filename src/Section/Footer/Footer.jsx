@@ -19,14 +19,14 @@ function Footer() {
       <p className={styles.text}>© {new Date().getFullYear()} Rajkishor Krins | All Rights Reserved</p>
       <div className={styles.socials}>
         <a
-          href="https://www.linkedin.com/in/your-profile"
+          href="https://www.linkedin.com/in/raj-kishor-9131081a1/"
           target="_blank"
           rel="noopener noreferrer"
         >
           <img src={linkedinIcon} alt="LinkedIn" />
         </a>
         <a
-          href="https://github.com/your-profile"
+          href="https://github.com/rajkishorkrins"
           target="_blank"
           rel="noopener noreferrer"
         >
