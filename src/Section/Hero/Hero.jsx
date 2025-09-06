@@ -36,7 +36,7 @@ function Hero() {
 
       <div className={styles.info}>
         <h1 className={styles.name}>RAJKISHOR KRINS</h1>
-        <h2 className={styles.role}>Frontend Developer</h2>
+        <h2 className={styles.role}>FULL-STACK DEVELOPER</h2>
 
         <div className={styles.socialIcons}>
           <a href="https://www.linkedin.com/in/raj-kishor-9131081a1/" target="_blank" rel="noopener noreferrer">
